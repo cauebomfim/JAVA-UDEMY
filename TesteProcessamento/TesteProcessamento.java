@@ -7,7 +7,7 @@ public class TesteProcessamento {
         a = 5;
         b = 2;
 
-        resultado = a/b;
+        resultado = (double)a/b;
 
         System.out.println(resultado);
     }
